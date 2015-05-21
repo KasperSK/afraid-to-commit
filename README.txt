@@ -27,6 +27,10 @@ documentation, and submitting it.
 The workshop will take you through the use of:
 
 * virtualenv and pip
+safsadf
+dfsa
+fdasfd
+
 * git (and GitHub)
 * running and writing tests for Python applications
 * writing and building documentation using Sphinx
